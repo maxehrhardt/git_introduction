@@ -43,5 +43,8 @@ git push -u origin master
 
 | Command | Options | Explanation
 | --- | --- | --- |
+|  |  |  |
+| `ls` |  | Shows content of current folder |
+| `cd` |  <ul style="list-style-type:none;"><li>..</li><li>[filepath]</li></ul> | <ul style="list-style-type:none;"><li>Goes one folder up</li><li>Changes to the given file path</li></ul>  |
 | `git init` |  | This command initializes a new git repo in the current  folder |
 | `git add` | <ul style="list-style-type:none;"><li>.</li><li>[filepath]</li></ul> |<ul style="list-style-type:none;"><li>Adds all changes to commit</li><li>Only adds the changes of given file to commit</li></ul> |
