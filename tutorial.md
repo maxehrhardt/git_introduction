@@ -15,7 +15,11 @@ First we need to add our Github credentials to git.
 `git config --global user.email "mail@mail.com"`
 
 ## Get an Existing Repository
-
+- Go to the [repository](https://github.com/maxehrhardt/git_introduction.git) you wanna clone.
+- Click on "Clone or Download" and copy the link
+- Open git-bash and `cd` to the folder you want the repo to be in
+- `git clone https://github.com/maxehrhardt/git_introduction.git`
+  
 ## Create Your Own Repo
 ### 1. Create a repository on github.com  
 You will see following message:  
@@ -48,3 +52,4 @@ git push -u origin master
 | `cd` |  <ul style="list-style-type:none;"><li>..</li><li>[filepath]</li></ul> | <ul style="list-style-type:none;"><li>Goes one folder up</li><li>Changes to the given file path</li></ul>  |
 | `git init` |  | This command initializes a new git repo in the current  folder |
 | `git add` | <ul style="list-style-type:none;"><li>.</li><li>[filepath]</li></ul> |<ul style="list-style-type:none;"><li>Adds all changes to commit</li><li>Only adds the changes of given file to commit</li></ul> |
+| `git clone ` | <nobr>[remote link] [folder name] </nobr> | Clones the repository from the remote link to the given folder. If no folder name is given the name of the repo is used. |
