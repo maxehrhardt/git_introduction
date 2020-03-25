@@ -1,4 +1,4 @@
-# What is Git?
+# Welcome to GIT (Git Initiative for Trainees) 
 ![linus](images/linus.jpg)  
 Git is a version control system (VCS) programmed by Linus Torvald in 2005 to support the work on the Linux kernel.
 
