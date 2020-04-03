@@ -3,6 +3,8 @@
 Git is a version control system (VCS) programmed by Linus Torvald in 2005 to support the work on the Linux kernel.
 
 
+Matthias ist cooler als MAx!
+
 ## Git Setup
 First we need to add our Github credentials to git.
 - Open git-bash
