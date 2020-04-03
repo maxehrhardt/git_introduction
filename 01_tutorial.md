@@ -1,5 +1,5 @@
 # Welcome to GIT (Git Initiative for Trainees) 
-![linus](images/linus.jpg)  
+![linus](images/01/linus.jpg)  
 Git is a version control system (VCS) programmed by Linus Torvald in 2005 to support the work on the Linux kernel.
 
 
@@ -69,7 +69,7 @@ The repository consists of 3 instances:
 - The local repository contains all versions of all files in the repo. Everything committed to here is tracked.
 - The remote repository is the shared repo on some server.
 
-![image](images/git_workflow.png)
+![image](images/01/git_workflow.png)
 
 # Resources
 

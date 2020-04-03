@@ -13,9 +13,14 @@ Before checking out you need to commit or stash all changes in the working direc
 
 When you returned to an older state and want to make changes you should create a new branch.
 
-# Revert a commit
+# Revert a Commit
 With `git revert` you can undo the changes of a specific commit by creating a new commit on top of the branch.
-
+```
+git checkout hotfix
+git revert HEAD~2
+```
+<img src="images/02/git_revert.png" width=500>
+![image]( | width=100)
 
 # Command Library
 
