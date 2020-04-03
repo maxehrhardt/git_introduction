@@ -6,6 +6,8 @@
 - Branches
 
 # Stashing
+The `git stash` command allows you to store away all your uncommited changes.
+`git stash pop` brings back your changes and you can go on working on them.
 
 # Checkout Old Commits
 The `git checkout` command updates the state of the repository to a specific point in the projects history or change between branches.  
